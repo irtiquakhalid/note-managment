@@ -1,0 +1,6 @@
+@import "./variables.scss"; // ✅ must be first
+@import "./globals.scss";
+@import "./typography.scss";
+@import "./auth.scss";
+@import "./dashboard.scss";
+@import "./products.scss";
